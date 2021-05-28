@@ -55,7 +55,3 @@ print("Input your height: ")
 inches = int(input("Inches: "))
 centimetres = round(inches * 2.54)
 print("Your height is : %d cm." % centimetres)
-
-
-
-
